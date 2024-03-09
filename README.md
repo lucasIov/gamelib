@@ -1,3 +1,5 @@
 # Game Lib
-A simple game library in vanilla web JavaScript, no dependencies for front-end.
+A simple 2D game library in vanilla web JavaScript
+- no dependencies
+- for front-end.
 
